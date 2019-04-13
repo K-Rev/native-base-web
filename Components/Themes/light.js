@@ -4,7 +4,7 @@ import Platform from '../../Utils/platform';
 
 export default function() {
     return {
-        brandPrimary : '#5067FF',
+        brandPrimary : '#f96604',
         brandInfo: '#5bc0de',
         brandSuccess: '#5cb85c',
         brandDanger: '#d9534f',
